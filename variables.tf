@@ -22,11 +22,6 @@ variable "instance_type" {
   type        = string
 }
 
-variable "desired_capacity" {
-  description = "Number of EC2 instances to run in the Auto Scaling group"
-  type        = number
-}
-
 variable "ami_id" {
   description = "AMI ID for the EC2 instances"
   type        = string
