@@ -53,16 +53,18 @@ The architecture deployed by this project is shown in the diagram below:
 3. Create DynamoDb Table
 
    ![dynamodb table](./images/dynamodb.png)
-   
-4. Initialize Terraform:
+
+4. set values to variables
+
+5. Initialize Terraform:
     ```bash
     terraform init
     ```
-5. Plan the deployment:
+6. Plan the deployment:
     ```bash
     terraform plan
     ```
-6. Apply the configuration:
+7. Apply the configuration:
     ```bash
     terraform apply
     ```
