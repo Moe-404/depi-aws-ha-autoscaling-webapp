@@ -47,9 +47,13 @@ The architecture deployed by this project is shown in the diagram below:
     cd depi-aws-ha-autoscaling-webapp
     ```
 2. Create S3 Bucket
+
    ![s3 bucket](./images/s3-bucket.png)
+
 3. Create DynamoDb Table
+
    ![dynamodb table](./images/dynamodb.png)
+   
 4. Initialize Terraform:
     ```bash
     terraform init
