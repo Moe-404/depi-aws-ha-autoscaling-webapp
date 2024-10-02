@@ -1,6 +1,6 @@
 # Depi AWS HA Autoscaling Webapp
 
-This project demonstrates the deployment of a highly available, autoscaling web application on AWS using Terraform.
+This project demonstrates deploying a highly available autoscaling web application on AWS using Terraform.
 
 ## Table of Contents
 - [Introduction](#introduction)
