@@ -4,7 +4,7 @@ This project automates the deployment of an AWS architecture using Terraform. Th
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Architecture Overview](#architectureoverview)
+- [Architecture Overview](#architecture-overview)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
